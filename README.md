@@ -1,2 +1,4 @@
 # PRACTICE-REPO
 THIS IS MY NEW REPO
+Author: Shahil Rawat
+
